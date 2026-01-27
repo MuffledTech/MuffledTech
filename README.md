@@ -1,33 +1,30 @@
-### 👋 Hi there, I'm Suresh Nepali (@MuffledTech)  
+### 👋 Hi, I’m Suresh Nepali (@MuffledTech)
 
-🚀 I'm an aspiring **Full Stack Web Developer** and **Cybersecurity enthusiast** from Pokhara, Nepal.  
-💡 I love building tech that’s practical, beautiful, and secure.
+🚀 Aspiring **Full Stack Web Developer** | 🔐 **Cybersecurity Enthusiast**  
+📍 Pokhara, Nepal 🇳🇵  
+
+I love building technology that is **practical, clean, and secure** — from web apps to DIY automation projects.
 
 ---
 
-### 👀 I’m interested in:
-- 🕸️ Web Development  
-- 🔐 Cybersecurity  
-- 💻 DIY Tech Projects and Automation  
+### 👀 Interests
+- 🌐 Web Development  
+- 🔐 Cybersecurity & Ethical Hacking  
+- 🛠️ DIY Tech Projects & Automation  
 
-### 🌱 I’m currently learning:
+### 🌱 Currently Learning
 - HTML, CSS & JavaScript  
-- Working towards becoming a **pro full stack developer**
-
-### 📫 How to reach me:
-- [LinkedIn](https://www.linkedin.com/in/suresh-nepali-49509333a/)
-
-### 😄 Pronouns:  
-- He/Him
-
-### ⚡ Fun fact:  
-- I'm a **generalist** — I love exploring all areas of tech!
+- Working towards becoming a **professional full stack developer**
 
 ---
+
+### 🔗 Connect with Me
+- 📸 Instagram: https://www.instagram.com/its.justsuresh/
+- 📘 Facebook: https://www.facebook.com/suresh.nepali.19732
+
+---
+
+### ⚡ Fun Fact
+- I’m a **generalist** — I enjoy exploring all areas of tech!
 
 > “Learning never exhausts the mind.” – Leonardo da Vinci
-
-<!---
-MuffledTech/MuffledTech is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
