@@ -13,13 +13,18 @@
 
 ## 💫 About Me
 
-I build intelligent systems combining **software engineering** and **hardware integration**.
+## 💫 About Me
 
-🔹 Robotics & Embedded Systems  
-🔹 Full Stack Web Applications  
-🔹 Automation & AI-based Systems  
-🔹 Production-focused development  
+I am **Suresh Nepali**, a passionate **Full Stack Developer, Embedded Systems Engineer, and Robotics Builder**. I love **turning ideas into functional systems**, bridging the gap between software and hardware. From building scalable web applications to programming microcontrollers for robotics projects, I strive to **create intelligent and automated solutions** that solve real-world problems.
 
+I specialize in:
+
+- 🔹 **Web Development & Full Stack Applications** — building responsive and production-ready systems using React, Next.js, Flask, Node.js, and Django.  
+- 🔹 **Embedded Systems & Robotics** — designing, coding, and deploying projects with Arduino, ESP32, and other microcontrollers.  
+- 🔹 **Automation & AI-based Solutions** — integrating AI, computer vision, and machine learning into practical applications.  
+- 🔹 **Continuous Learning & Open Source Contribution** — always exploring new technologies and sharing knowledge through projects and tutorials.
+
+I enjoy **building complete systems from scratch**, from the **circuit board** to the **code logic**, and consistently shipping projects that showcase both **software and hardware mastery**.
 ---
 
 ## 🎯 Skills Progress
@@ -143,4 +148,4 @@ I build intelligent systems combining **software engineering** and **hardware in
 </p>
 
 ---
-![Profile Views](https://img.shields.io/endpoint?url=https://raw.githubusercontent.com/USERNAME/REPO/main/counter.json)
+![Profile Views](https://img.shields.io/endpoint?url=https://raw.githubusercontent.com/MuffledTech/MuffledTech/main/counter.json)
