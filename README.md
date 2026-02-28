@@ -23,7 +23,6 @@ I build intelligent systems combining **software engineering** and **hardware in
 ---
 
 ## 🎯 Skills Progress
-## 🎯 Skills Progress
 
 <p align="center">
 
@@ -142,3 +141,6 @@ I build intelligent systems combining **software engineering** and **hardware in
 <p align="center">
   <i>Engineering complete systems — from silicon to software.</i>
 </p>
+
+---
+![Profile Views](https://img.shields.io/endpoint?url=https://raw.githubusercontent.com/USERNAME/REPO/main/counter.json)
