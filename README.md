@@ -18,9 +18,78 @@ I build intelligent systems combining **software engineering** and **hardware in
 
 ---
 
+## 🎯 Skills Progress
+<p align="center" style="display:grid; grid-template-columns: repeat(auto-fit, minmax(120px, 1fr)); gap:25px; justify-items:center;">
+
+<!-- HTML -->
+<svg viewBox="0 0 36 36" width="120" height="120">
+  <circle cx="18" cy="18" r="15.9155" fill="none" stroke="#eee" stroke-width="3"/>
+  <circle cx="18" cy="18" r="15.9155" fill="none" stroke="#FF6F61" stroke-width="3" stroke-dasharray="0,100">
+    <animate attributeName="stroke-dasharray" from="0,100" to="85,100" dur="1.5s" fill="freeze"/>
+  </circle>
+  <text x="18" y="20.35" font-size="4" text-anchor="middle" fill="#FF6F61">HTML</text>
+  <text x="18" y="26" font-size="3" text-anchor="middle" fill="#FF6F61">85%</text>
+</svg>
+
+<!-- CSS -->
+<svg viewBox="0 0 36 36" width="120" height="120">
+  <circle cx="18" cy="18" r="15.9155" fill="none" stroke="#eee" stroke-width="3"/>
+  <circle cx="18" cy="18" r="15.9155" fill="none" stroke="#00A2E8" stroke-width="3" stroke-dasharray="0,100">
+    <animate attributeName="stroke-dasharray" from="0,100" to="80,100" dur="1.5s" fill="freeze"/>
+  </circle>
+  <text x="18" y="20.35" font-size="4" text-anchor="middle" fill="#00A2E8">CSS</text>
+  <text x="18" y="26" font-size="3" text-anchor="middle" fill="#00A2E8">80%</text>
+</svg>
+
+<!-- JavaScript -->
+<svg viewBox="0 0 36 36" width="120" height="120">
+  <circle cx="18" cy="18" r="15.9155" fill="none" stroke="#eee" stroke-width="3"/>
+  <circle cx="18" cy="18" r="15.9155" fill="none" stroke="#F7DF1E" stroke-width="3" stroke-dasharray="0,100">
+    <animate attributeName="stroke-dasharray" from="0,100" to="70,100" dur="1.5s" fill="freeze"/>
+  </circle>
+  <text x="18" y="20.35" font-size="4" text-anchor="middle" fill="#F7DF1E">JS</text>
+  <text x="18" y="26" font-size="3" text-anchor="middle" fill="#F7DF1E">70%</text>
+</svg>
+
+<!-- Python -->
+<svg viewBox="0 0 36 36" width="120" height="120">
+  <circle cx="18" cy="18" r="15.9155" fill="none" stroke="#eee" stroke-width="3"/>
+  <circle cx="18" cy="18" r="15.9155" fill="none" stroke="#306998" stroke-width="3" stroke-dasharray="0,100">
+    <animate attributeName="stroke-dasharray" from="0,100" to="65,100" dur="1.5s" fill="freeze"/>
+  </circle>
+  <text x="18" y="20.35" font-size="4" text-anchor="middle" fill="#306998">Python</text>
+  <text x="18" y="26" font-size="3" text-anchor="middle" fill="#306998">65%</text>
+</svg>
+
+<!-- PHP -->
+<svg viewBox="0 0 36 36" width="120" height="120">
+  <circle cx="18" cy="18" r="15.9155" fill="none" stroke="#eee" stroke-width="3"/>
+  <circle cx="18" cy="18" r="15.9155" fill="none" stroke="#777BB4" stroke-width="3" stroke-dasharray="0,100">
+    <animate attributeName="stroke-dasharray" from="0,100" to="50,100" dur="1.5s" fill="freeze"/>
+  </circle>
+  <text x="18" y="20.35" font-size="4" text-anchor="middle" fill="#777BB4">PHP</text>
+  <text x="18" y="26" font-size="3" text-anchor="middle" fill="#777BB4">50%</text>
+</svg>
+
+<!-- Arduino -->
+<svg viewBox="0 0 36 36" width="120" height="120">
+  <circle cx="18" cy="18" r="15.9155" fill="none" stroke="#eee" stroke-width="3"/>
+  <circle cx="18" cy="18" r="15.9155" fill="none" stroke="#00979D" stroke-width="3" stroke-dasharray="0,100">
+    <animate attributeName="stroke-dasharray" from="0,100" to="60,100" dur="1.5s" fill="freeze"/>
+  </circle>
+  <text x="18" y="20.35" font-size="4" text-anchor="middle" fill="#00979D">Arduino</text>
+  <text x="18" y="26" font-size="3" text-anchor="middle" fill="#00979D">60%</text>
+</svg>
+
+</p>
+
+---
+
 # 💻 Tech Stack
 
 ### 🧠 Languages
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 ![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
 ![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
@@ -70,10 +139,6 @@ I build intelligent systems combining **software engineering** and **hardware in
   <img src="https://nirzak-streak-stats.vercel.app/?user=MuffledTech&theme=dark" height="165"/>
 </p>
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MuffledTech&theme=dark&layout=compact"/>
-</p>
-
 ---
 
 # 🚀 Engineering Focus
@@ -88,11 +153,23 @@ I build intelligent systems combining **software engineering** and **hardware in
 
 # 🌐 Connect With Me
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin)](https://linkedin.com/in/SureshNepali)
-[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/its.justsuresh)
-[![X](https://img.shields.io/badge/X-black?style=for-the-badge&logo=X)](https://x.com/SureshnepA)
-[![YouTube](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://youtube.com/@ToolTechInsigh)
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:sureshnepali158@gmail.com)
+<p align="center" style="display:flex; justify-content:center; gap:12px; flex-wrap:wrap;">
+  <a href="https://linkedin.com/in/SureshNepali" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+  </a>
+  <a href="https://instagram.com/its.justsuresh" target="_blank">
+    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"/>
+  </a>
+  <a href="https://x.com/SureshnepA" target="_blank">
+    <img src="https://img.shields.io/badge/X-black?style=for-the-badge&logo=X" alt="X"/>
+  </a>
+  <a href="https://youtube.com/@ToolTechInsigh" target="_blank">
+    <img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" alt="YouTube"/>
+  </a>
+  <a href="mailto:sureshnepali158@gmail.com">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
+  </a>
+</p>
 
 ---
 
