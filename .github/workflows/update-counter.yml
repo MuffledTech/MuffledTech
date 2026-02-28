@@ -1,0 +1,29 @@
+name: Update Profile Visit Counter
+
+on:
+  workflow_dispatch:   # allows manual trigger
+  schedule:
+    - cron: '0 * * * *' # runs every hour, optional
+
+jobs:
+  update-counter:
+    runs-on: ubuntu-latest
+
+    steps:
+    - name: Checkout repository
+      uses: actions/checkout@v3
+
+    - name: Update counter
+      run: |
+        count=$(cat counter.txt)
+        new_count=$((count + 1))
+        echo $new_count > counter.txt
+        echo "{\"schemaVersion\":1,\"label\":\"Profile Views\",\"message\":\"$new_count\",\"color\":\"blue\"}" > counter.json
+
+    - name: Commit updated counter
+      run: |
+        git config user.name "github-actions[bot]"
+        git config user.email "github-actions[bot]@users.noreply.github.com"
+        git add counter.txt counter.json
+        git commit -m "Update profile view counter"
+        git push
